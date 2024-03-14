@@ -1,0 +1,1 @@
+Use the command `terraform fmt` to format the terraform code.
