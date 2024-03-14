@@ -1,0 +1,1 @@
+Use command `terraform validate` to validate the terraform code
