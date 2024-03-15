@@ -1,0 +1,1 @@
+Use command `terraform apply -replace="aws_instance.myec2"` to recreate resource
