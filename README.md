@@ -1,0 +1,1 @@
+This one use `set` data type. It use key string index instead of number index in list. Hence when we add a user into set, no conflict at index happens.
