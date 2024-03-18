@@ -20,6 +20,8 @@ resource "aws_instance" "myec2" {
   }
 
   lifecycle {
-    ignore_changes = [tags]
+    # This will ignore all changes happening on manual and previous
+    # ignore_changes = all
+    ignore_changes = [ tags ]
   }
 }
