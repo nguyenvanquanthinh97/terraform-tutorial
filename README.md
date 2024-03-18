@@ -1,0 +1,1 @@
+Option `create-before-destroy` in `lifecycle` help to create an instance first than destroy. Best working in production environment
