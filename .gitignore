@@ -1,3 +1,5 @@
+terraform.pem
+
 # This is the .gitignore example which is referenced
 # FROM: https://github.com/github/gitignore/blob/main/Terraform.gitignore
 
