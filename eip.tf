@@ -3,6 +3,6 @@ resource "aws_eip" "myeip" {
 }
 
 resource "aws_eip" "myeip01" {
-  vpc = "true"
+  vpc      = "true"
   provider = aws.mumbai
 }

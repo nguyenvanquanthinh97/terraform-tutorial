@@ -3,6 +3,7 @@ provider "aws" {
 }
 
 provider "aws" {
-  alias  = "mumbai"
-  region = "ap-south-1"
+  alias   = "mumbai"
+  region  = "ap-south-1"
+  profile = "account02"
 }
